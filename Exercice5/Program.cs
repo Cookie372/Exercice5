@@ -10,7 +10,7 @@ namespace Exercice5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Entrez votre âge :");
+            Console.WriteLine("Veuillez entrez votre âge :");
             int âge = int.Parse(Console.ReadLine());
             if (âge >= 18)
             {
